@@ -2,8 +2,8 @@
 
 ML PhD and software engineer. Building solo, for now.
 
-- [AIPR](https://aipr.pub) — AI-assisted peer review platform for scientific papers, with calibrated scores, citation audits, and a collaborative review workspace.
-- [Spec Driven](https://specdriven.substack.com) — weekly app specs for people who use AI to build their own tools.
+- [AIPR](https://aipr.pub) - AI-assisted peer review platform for scientific papers, with calibrated scores, citation audits, and a collaborative review workspace.
+- [Spec Driven](https://specdriven.substack.com) - weekly app specs for people who use AI to build their own tools.
 
 ## Projects
 
