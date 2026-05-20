@@ -3,16 +3,15 @@
 ML PhD and software engineer. Building solo, for now.
 
 - [AIPR](https://aipr.pub) - AI-assisted peer review platform for scientific papers, with calibrated scores, citation audits, and a collaborative review workspace.
-- [Spec Driven](https://specdriven.substack.com) - weekly app specs for people who use AI to build their own tools.
+- [Spec Driven](https://specdriven.substack.com) - Weekly app specs for people who use AI to build their own tools.
 
 ## Projects
 
 **Machine Learning**
-- [tinyfold](https://github.com/cogeor/tinyfold) - Minimal AlphaFold3-like diffusion-based network for protein-protein interactions (Python, TypeScript)
+- [GBRS](https://github.com/cogeor/GBRS) - Gradient boosting algorithm for generating interpretable risk scores, with C++ core and Python/R bindings (Python, R, C++)
 - [speaktolearn](https://github.com/cogeor/speaktolearn) - Flutter app for Mandarin pronunciation grading, with a custom DL pronunciation model (Python, Dart)
 - [mispriced](https://github.com/cogeor/mispriced) - Full stack financial analysis software, deployed at [mispriced.ch](https://mispriced.ch) (Python, TypeScript)
-- [GBRS](https://github.com/cogeor/GBRS) - Gradient boosting algorithm for generating interpretable risk scores, with C++ core and Python/R bindings (Python, R, C++)
-- [tensorflow_VAE](https://github.com/cogeor/tensorflow_VAE) - Variational autoencoder implementation (Python)
+- [tinyfold](https://github.com/cogeor/tinyfold) - Minimal AlphaFold3-like diffusion-based network for protein-protein interactions (Python, TypeScript)
 
 **Developer Tools**
 - [llmem](https://github.com/cogeor/llmem) - Codebase summary tool for LLMs, include graph functional call and import visualization and an MCP server for automatic summarization (TypeScript)
