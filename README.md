@@ -6,7 +6,7 @@ Solo-builder: [AIPR](https://aipr.pub) — AI-assisted peer review platform for 
 
 **Machine Learning**
 - [tinyfold](https://github.com/cogeor/tinyfold) - Minimal AlphaFold3-like diffusion-based network for protein-protein interactions (Python, TypeScript)
-- [speaktolearn](https://github.com/cogeor/speaktolearn) - Flutter app for Mandarin pronunciation grading, with a custom DL pronounciation model (Python, Dart)
+- [speaktolearn](https://github.com/cogeor/speaktolearn) - Flutter app for Mandarin pronunciation grading, with a custom DL pronunciation model (Python, Dart)
 - [mispriced](https://github.com/cogeor/mispriced) - Full stack financial analysis software, deployed at [mispriced.ch](https://mispriced.ch) (Python, TypeScript)
 - [GBRS](https://github.com/cogeor/GBRS) - Gradient boosting algorithm for generating interpretable risk scores, with C++ core and Python/R bindings (Python, R, C++)
 - [tensorflow_VAE](https://github.com/cogeor/tensorflow_VAE) - Variational autoencoder implementation (Python)
