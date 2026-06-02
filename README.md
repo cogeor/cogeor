@@ -3,7 +3,7 @@
 Here are some things I built.
 
 - [AIPR](https://aipr.pub) - AI-assisted peer review platform for scientific papers, with calibrated scores, citation audits, and a collaborative review workspace.
-- [Spec Driven](https://specdriven.substack.com) - Weekly app specs for people who use AI to build their own tools. I also write about spec-first AI coding. 
+- [Spec Driven](https://specdriven.substack.com) - Where I write about spec-first AI coding, I also prepare weekly app specs for people who use AI to build their own tools. 
 
 ## Projects
 
