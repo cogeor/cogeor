@@ -8,8 +8,8 @@ Here are some things I built.
 ## Projects
 
 **Machine Learning**
-- [GBRS](https://github.com/cogeor/GBRS) - Gradient boosting algorithm for generating interpretable risk scores, with C++ core and Python/R bindings (Python, R, C++)
-- [speaktolearn](https://github.com/cogeor/speaktolearn) - Flutter app for Mandarin pronunciation grading, with a custom DL pronunciation model (Python, Dart)
+- [GBRS](https://github.com/cogeor/GBRS) - Gradient boosting algorithm for generating interpretable risk scores, with C++ core and Python/R packages (C++, Python, R)
+- [speaktolearn](https://github.com/cogeor/speaktolearn) - Flutter app for Mandarin pronunciation grading, with a custom DL grading model (Python, Dart)
 - [mispriced](https://github.com/cogeor/mispriced) - Full stack financial analysis software, deployed at [mispriced.ch](https://mispriced.ch) (Python, TypeScript)
 - [tinyfold](https://github.com/cogeor/tinyfold) - Minimal AlphaFold3-like diffusion-based network for protein-protein interactions (Python, TypeScript)
 
