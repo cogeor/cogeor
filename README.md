@@ -16,7 +16,13 @@ Here are some things I built.
 **Developer Tools**
 - [llmem](https://github.com/cogeor/llmem) - Codebase summary tool for LLMs, include graph functional call and import visualization and an MCP server for automatic summarization (TypeScript)
 - [delegate](https://github.com/cogeor/delegate) - Minimal coding agent toolkit for spec-driven development (Markdown)
+- [paners](https://github.com/cogeor/paners) - Terminal agent layer: a Windows-first terminal multiplexer with tiled panes, a modal keymap, and Lua config, plus a `pn` CLI control plane agents use to drive the terminal (Rust, TypeScript)
 
 **Robotics & Simulation**
 - [clankers](https://github.com/cogeor/clankers) - Rust-based robotics simulator with LLM-driven synthetic data generation and a Gymnasium-compatible training interface (Rust, Python)
 - [warehouser](https://github.com/cogeor/warehouser) - ROS2-based warehouse robot simulation (C++)
+
+**Specs**
+- [Todos](https://github.com/cogeor/todos) - Spec for a personal to-do PWA; hand the repo to a coding agent and get a working app on your phone in minutes (Markdown)
+- [Habits](https://github.com/cogeor/habit-tracker) - Spec for a minimal personal habit-tracking PWA, built from the spec by a coding agent (Markdown)
+- [Event Tracker](https://github.com/cogeor/event_tracker) - Spec for a tiny phone app that pings you once a day with a number you care about (US federal funds rate by default) (Markdown)
