@@ -23,6 +23,6 @@ Here are some things I built.
 - [warehouser](https://github.com/cogeor/warehouser) - ROS2-based warehouse robot simulation (C++)
 
 **Specs**
-- [Todos](https://github.com/cogeor/todos) - Spec for a personal to-do PWA; hand the repo to a coding agent and get a working app on your phone in minutes — world-record Claude-to-phone-installed todo-app speedrun at [4:47](https://www.youtube.com/watch?v=pdakbGgs3Bg) (Markdown)
+- [Todos](https://github.com/cogeor/todos) - Spec for a personal to-do PWA; hand the repo to a coding agent and get a working app on your phone in minutes — world-record Claude-to-phone-installed todo-app speedrun at [4:47](https://www.youtube.com/watch?v=pdakbGgs3Bg), explained in [Speedrunning Specs](https://specdriven.substack.com/p/speedrunning-specs-from-md-to-phone) (Markdown)
 - [Habits](https://github.com/cogeor/habit-tracker) - Spec for a minimal personal habit-tracking PWA, built from the spec by a coding agent (Markdown)
 - [Event Tracker](https://github.com/cogeor/event_tracker) - Spec for a tiny phone app that pings you once a day with a number you care about (US federal funds rate by default) (Markdown)
